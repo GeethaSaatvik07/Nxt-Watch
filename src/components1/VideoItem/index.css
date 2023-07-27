@@ -1,0 +1,9 @@
+.video-link {
+  text-decoration: none;
+  width: 30%;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  margin: 10px;
+}
